@@ -1,0 +1,7 @@
+INFO start
+DEBUG init cache
+ERROR failed to connect
+INFO retry
+WARNING slow response
+ERROR timeout
+INFO done
